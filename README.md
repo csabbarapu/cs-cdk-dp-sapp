@@ -6,7 +6,7 @@
 
 The AWS platform mono repository is used to build and deploy AWS infra and applications in the cloud based on CDK Python.
 
-    cdk-cs-assignment
+    cs-cdk-dp-sapp
     |
     +-- cdk_pipeline
     |   |
